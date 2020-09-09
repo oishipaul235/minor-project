@@ -1,0 +1,46 @@
+body{
+	display:flex;
+	justify-content:center;
+	background-image: url("learn.jpeg");
+	background-position: top center;
+	background-size: cover;
+
+}
+.container{
+	font-family: comic sans ms;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	border-color: black;
+	border-radius: 40px;
+	border-width: 10px;
+	border-style: solid;
+	box-sizing: border-box;
+	margin: 50px ;
+	background-color:green;
+	padding: 40px;
+}
+input [type="text"], input [type="number"], input [type="email"], input [type="password"]{
+border-radius: 10px;
+box-sizing: content-box;
+width: 100%;
+padding: 20px;
+color:red;
+margin: 10px;
+font-family: arial black;
+outline: none;
+border:none;
+font-weight: bold;
+}
+input [type="submit"]{
+border-radius: 50px;
+box-sizing: content-box;
+width: 100%;
+padding: 20px;
+color:red;
+margin: 10px;
+font-family: arial black;
+outline: none;
+border:none;
+font-weight: bold;
+} 
