@@ -1,0 +1,30 @@
+.container{
+    width: 950px;
+    height: auto;
+    margin: 20px;
+    padding: 40px;
+    background:darkblue;
+    text-align: center;
+}
+.container ul li {
+    list-style:none;
+    display: inline-block;
+}
+.container ul li a{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: inherit ;
+    padding: 10px;
+    margin: 10px;
+    color:rgb(241, 182, 104);
+    text-decoration: none;
+    text-shadow: rgb(233, 203, 165);
+}
+.container1{
+    width: 500px;
+    height: auto;
+    margin: 20px;
+    padding: 10px;
+    background-color: cyan;
+   }
