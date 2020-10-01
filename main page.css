@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("STUDY.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    height: 60px;
+    padding: 10px;
+    background:darkblue;
+    text-align: center;
+}
+.container ul li {
+    list-style:none;
+    display: inline-flex;
+}
+.container ul li a{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: inherit ;
+    padding: 20px;
+    margin: 10px;
+    color:rgb(241, 182, 104);
+    text-decoration: none;
+    text-shadow: rgb(233, 203, 165);
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+.container1{
+    width: 500px;
+    height: auto;
+    margin: 20px;
+    padding: 10px;
+    background-color: cyan;
+   }
